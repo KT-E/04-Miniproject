@@ -1,5 +1,6 @@
-# 도서 관리 시스템 README.MD
-KT AIVLE School AI 트랙 미니 프로젝트 4차 FrontEnd
+# 도서 관리 시스템
+
+> KT AIVLE School AI 트랙 미니프로젝트 4차 (FrontEnd)
 
 <img src="https://github.com/user-attachments/assets/c4527184-1e44-4688-a68f-12df8db1f4b9">
 
