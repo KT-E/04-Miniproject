@@ -88,14 +88,7 @@ Book-management/
 
 ### Requirements
 - npm
-- react-router-dom 
 - .env 파일에 VITE_OPENAI_API_KEY= 키 입력
-
-### Installation
-```sh
-$ git clone https://github.com/BcKmini/Book-management.git
-$ cd Book-management
-```
 
 ### Backend
 ```sh
@@ -106,7 +99,6 @@ $ npx json-server db.json --port 5000
 ### Frontend
 ```sh
 $ npm install
-$ npm install react-router-dom
 $ npm run dev
 ```
 
